@@ -8,9 +8,6 @@ public class Goomba : MonoBehaviour
 
     public float direction; //-1 when go left, 1 when go right
     public LayerMask groundLayer;
-    public bool changeDirection;
-
-
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -32,28 +29,12 @@ public class Goomba : MonoBehaviour
 
         // Raycast is important thing to know hot to do it
         RaycastHit2D hit = Physics2D.Raycast(detectionPoint.transform.position, Vector2.down, 1, groundLayer);
-        if( hit.collider == null)
-        {
-            //Ray didn't hit anything so we must change direction 
-            changeDirection = true;
-
-        }
-
         // Raycast is important thing to know hot to do it // f - mean a float num
         RaycastHit2D hit2 = Physics2D.Raycast(detectionPoint.transform.position, Vector2.right * direction, 0.2f, groundLayer);
-        if (hit2.collider != null)
-        {
-            //Ray hit somthing like a wall so we must change direction 
-            //ChangeDirection();
-            changeDirection = true;
-
-        }
-        if (changeDirection == true)
+        if (hit.collider == null || hit2.collider != null)
         {
             ChangeDirection();
-           
-        }
-
+		}
     }
 
 
@@ -78,7 +59,6 @@ public class Goomba : MonoBehaviour
         }
 
     }
-
 
 
     void ChangeDirection()
