@@ -1,0 +1,2520 @@
+fileFormatVersion: 2
+guid: ffd87c8dfbd432e4ca9ba2c5a1832a9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2211666523805722910
+    second: SuperMarioTiles_0
+  - first:
+      213: -2596122250585918260
+    second: SuperMarioTiles_1
+  - first:
+      213: 1722901226976628637
+    second: SuperMarioTiles_2
+  - first:
+      213: -578255957836932889
+    second: SuperMarioTiles_3
+  - first:
+      213: 7502670587093929488
+    second: SuperMarioTiles_4
+  - first:
+      213: 1717451529547189852
+    second: SuperMarioTiles_5
+  - first:
+      213: -8484574264705471866
+    second: SuperMarioTiles_6
+  - first:
+      213: 3053394187943464918
+    second: SuperMarioTiles_7
+  - first:
+      213: 3511280245185173835
+    second: SuperMarioTiles_8
+  - first:
+      213: -6546257434437428140
+    second: SuperMarioTiles_9
+  - first:
+      213: 234000451447244701
+    second: SuperMarioTiles_10
+  - first:
+      213: 156358613980284605
+    second: SuperMarioTiles_11
+  - first:
+      213: 5144680252142726988
+    second: SuperMarioTiles_12
+  - first:
+      213: -5031571007114188970
+    second: SuperMarioTiles_13
+  - first:
+      213: 67974255664262991
+    second: SuperMarioTiles_14
+  - first:
+      213: 6407265689048717170
+    second: SuperMarioTiles_15
+  - first:
+      213: -315177504535424581
+    second: SuperMarioTiles_16
+  - first:
+      213: -7489874471270659322
+    second: SuperMarioTiles_17
+  - first:
+      213: 4661755074936886555
+    second: SuperMarioTiles_18
+  - first:
+      213: -3304287409774716857
+    second: SuperMarioTiles_19
+  - first:
+      213: -1313845387910687597
+    second: SuperMarioTiles_20
+  - first:
+      213: 3824217333774245719
+    second: SuperMarioTiles_21
+  - first:
+      213: -2046428785241159818
+    second: SuperMarioTiles_22
+  - first:
+      213: 2451433585021712644
+    second: SuperMarioTiles_23
+  - first:
+      213: -4999395258633109309
+    second: SuperMarioTiles_24
+  - first:
+      213: -2964080295293303992
+    second: SuperMarioTiles_25
+  - first:
+      213: 6824967638264635019
+    second: SuperMarioTiles_26
+  - first:
+      213: -2653645618259152934
+    second: SuperMarioTiles_27
+  - first:
+      213: -7617476767240833865
+    second: SuperMarioTiles_28
+  - first:
+      213: -7715339382365613091
+    second: SuperMarioTiles_29
+  - first:
+      213: -909996223171177939
+    second: SuperMarioTiles_30
+  - first:
+      213: -3484438250994018197
+    second: SuperMarioTiles_31
+  - first:
+      213: 9036509599760242527
+    second: SuperMarioTiles_32
+  - first:
+      213: -7382686574053633014
+    second: SuperMarioTiles_33
+  - first:
+      213: -8423389739559407898
+    second: SuperMarioTiles_34
+  - first:
+      213: -6595583442674672377
+    second: SuperMarioTiles_35
+  - first:
+      213: 4215815206070163956
+    second: SuperMarioTiles_36
+  - first:
+      213: -6608696632139879871
+    second: SuperMarioTiles_37
+  - first:
+      213: 8392131591477328989
+    second: SuperMarioTiles_38
+  - first:
+      213: 4230949000010330390
+    second: SuperMarioTiles_39
+  - first:
+      213: -8531814705096191329
+    second: SuperMarioTiles_40
+  - first:
+      213: -598005332136175061
+    second: SuperMarioTiles_41
+  - first:
+      213: 1855613572339250163
+    second: SuperMarioTiles_42
+  - first:
+      213: -521277665650052783
+    second: SuperMarioTiles_43
+  - first:
+      213: 2033392120849988980
+    second: SuperMarioTiles_44
+  - first:
+      213: 730500942876155923
+    second: SuperMarioTiles_45
+  - first:
+      213: -6350361916083378481
+    second: SuperMarioTiles_46
+  - first:
+      213: 4694639778055046845
+    second: SuperMarioTiles_47
+  - first:
+      213: 3763927754402730958
+    second: SuperMarioTiles_48
+  - first:
+      213: -9112536311449611405
+    second: SuperMarioTiles_49
+  - first:
+      213: 25991212060276605
+    second: SuperMarioTiles_50
+  - first:
+      213: -380870758369619876
+    second: SuperMarioTiles_51
+  - first:
+      213: 8362597738852755636
+    second: SuperMarioTiles_52
+  - first:
+      213: -1502820082371538139
+    second: SuperMarioTiles_53
+  - first:
+      213: -3393165466077228070
+    second: SuperMarioTiles_54
+  - first:
+      213: -4480179354013782330
+    second: SuperMarioTiles_55
+  - first:
+      213: 679931601829293195
+    second: SuperMarioTiles_56
+  - first:
+      213: -7897643615465178719
+    second: SuperMarioTiles_57
+  - first:
+      213: -6151194075654223823
+    second: SuperMarioTiles_58
+  - first:
+      213: 1759413450999324019
+    second: SuperMarioTiles_59
+  - first:
+      213: 514837772063405827
+    second: SuperMarioTiles_60
+  - first:
+      213: 5801012269737961448
+    second: SuperMarioTiles_61
+  - first:
+      213: -8412653094976140926
+    second: SuperMarioTiles_62
+  - first:
+      213: -6083558396922737323
+    second: SuperMarioTiles_63
+  - first:
+      213: -952600882946199027
+    second: SuperMarioTiles_64
+  - first:
+      213: 2294231507819024971
+    second: SuperMarioTiles_65
+  - first:
+      213: 5321588682271080047
+    second: SuperMarioTiles_66
+  - first:
+      213: -715105429268062609
+    second: SuperMarioTiles_67
+  - first:
+      213: -1684672414657318267
+    second: SuperMarioTiles_68
+  - first:
+      213: -784746624802529642
+    second: SuperMarioTiles_69
+  - first:
+      213: -5411093133872222324
+    second: SuperMarioTiles_70
+  - first:
+      213: 1649293436448124540
+    second: SuperMarioTiles_71
+  - first:
+      213: -8085248247153963051
+    second: SuperMarioTiles_72
+  - first:
+      213: 8113053739016296476
+    second: SuperMarioTiles_73
+  - first:
+      213: 6369457315532477716
+    second: SuperMarioTiles_74
+  - first:
+      213: 1590461091822418260
+    second: SuperMarioTiles_75
+  - first:
+      213: -3184403408973081851
+    second: SuperMarioTiles_76
+  - first:
+      213: 8459190551192638542
+    second: SuperMarioTiles_77
+  - first:
+      213: -7608908108733041841
+    second: SuperMarioTiles_78
+  - first:
+      213: -6408226424735646009
+    second: SuperMarioTiles_79
+  - first:
+      213: -1758772992516189483
+    second: SuperMarioTiles_80
+  - first:
+      213: 553403900124755959
+    second: SuperMarioTiles_81
+  - first:
+      213: -6331610176137903812
+    second: SuperMarioTiles_82
+  - first:
+      213: 8414648958561806755
+    second: SuperMarioTiles_83
+  - first:
+      213: -4052510329384892680
+    second: SuperMarioTiles_84
+  - first:
+      213: -4974205459592739258
+    second: SuperMarioTiles_85
+  - first:
+      213: 8486363855705975757
+    second: SuperMarioTiles_86
+  - first:
+      213: 6061747272330647828
+    second: SuperMarioTiles_87
+  - first:
+      213: 4952874501616616128
+    second: SuperMarioTiles_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brick
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 479
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6dfe6b3059e41e0800000000000000
+      internalID: -2211666523805722910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 481
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4b6546198b8fbd0800000000000000
+      internalID: -2596122250585918260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 481
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fc601a989f8e710800000000000000
+      internalID: 1722901226976628637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 481
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e850e3254f99f7f0800000000000000
+      internalID: -578255957836932889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoombaWalk1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 472
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e418ae527de1860800000000000000
+      internalID: 7502670587093929488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoombaWalk2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 472
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e8c91111d95d710800000000000000
+      internalID: 1717451529547189852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoombaDie
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 473
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a2fc1d8acb04a80800000000000000
+      internalID: -8484574264705471866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 461
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfcc9b16d5df5a20800000000000000
+      internalID: 3053394187943464918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 458
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49db1987c29ab030800000000000000
+      internalID: 3511280245185173835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 458
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cd8140c850725a0800000000000000
+      internalID: -6546257434437428140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 458
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d974bc9bb265f3300800000000000000
+      internalID: 234000451447244701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 442
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db60edbb45f7b2200800000000000000
+      internalID: 156358613980284605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 429
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f2fef7e63956740800000000000000
+      internalID: 5144680252142726988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 430
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657edc2d3d44c2ab0800000000000000
+      internalID: -5031571007114188970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 429
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6db2b93e71f000800000000000000
+      internalID: 67974255664262991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 430
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2771c41723e2be850800000000000000
+      internalID: 6407265689048717170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 430
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1d8f0cab340abf0800000000000000
+      internalID: -315177504535424581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 430
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b45a7f9de9e0890800000000000000
+      internalID: -7489874471270659322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15dc77aa81e1b040800000000000000
+      internalID: 4661755074936886555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marioidle
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 425
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74815909b10d422d0800000000000000
+      internalID: -3304287409774716857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioDie
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 425
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3945ccba49844cde0800000000000000
+      internalID: -1313845387910687597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 424
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f518b4769521530800000000000000
+      internalID: 3824217333774245719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioWalk1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 425
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677019dbcdf9993e0800000000000000
+      internalID: -2046428785241159818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioWalk2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 425
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4097ea97bdd350220800000000000000
+      internalID: 2451433585021712644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioWalk3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 425
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0c66d00849e9ab0800000000000000
+      internalID: -4999395258633109309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioJump
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 425
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ce410da87dd6d0800000000000000
+      internalID: -2964080295293303992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8edc4228e727be50800000000000000
+      internalID: 6824967638264635019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 405
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf24ebae5b5c2bd0800000000000000
+      internalID: -2653645618259152934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 405
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4b1d34d39494690800000000000000
+      internalID: -7617476767240833865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 405
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3148895bb9de490800000000000000
+      internalID: -7715339382365613091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 405
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d225fe2a14b0f53f0800000000000000
+      internalID: -909996223171177939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 405
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68d7bf3fd9c4afc0800000000000000
+      internalID: -3484438250994018197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_32
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57dd1f7a91286d70800000000000000
+      internalID: 9036509599760242527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Solid
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04dc711dad6b8990800000000000000
+      internalID: -7382686574053633014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 367
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee24e039ab1a1b80800000000000000
+      internalID: -8423389739559407898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 368
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d9de4cdc7c774a0800000000000000
+      internalID: -6595583442674672377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 368
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f99084f795918a30800000000000000
+      internalID: 4215815206070163956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a6bfc6d613944a0800000000000000
+      internalID: -6608696632139879871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 369
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cf6521837d67470800000000000000
+      internalID: 8392131591477328989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 368
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f860f2b957ba30800000000000000
+      internalID: 4230949000010330390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 370
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92994daab7e89980800000000000000
+      internalID: -8531814705096191329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_41
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 373
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2adb3c915573b7f0800000000000000
+      internalID: -598005332136175061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 380
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3bcab66b670c910800000000000000
+      internalID: 1855613572339250163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 386
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151759599bc04c8f0800000000000000
+      internalID: -521277665650052783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 386
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d775c4c5f083c10800000000000000
+      internalID: 2033392120849988980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_45
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310a838bcb2432a00800000000000000
+      internalID: 730500942876155923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 370
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc66ea4ab7bfed7a0800000000000000
+      internalID: -6350361916083378481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6c36f3106b62140800000000000000
+      internalID: 4694639778055046845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 367
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec39869b9582c3430800000000000000
+      internalID: 3763927754402730958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_49
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 367
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37392394184c98180800000000000000
+      internalID: -9112536311449611405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d777222aed65c5000800000000000000
+      internalID: 25991212060276605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 334
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c509b0e2010e6baf0800000000000000
+      internalID: -380870758369619876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_52
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 319
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8adc7265aed0470800000000000000
+      internalID: 8362597738852755636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 319
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523dbece819e42be0800000000000000
+      internalID: -1502820082371538139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_54
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad318528cfd09e0d0800000000000000
+      internalID: -3393165466077228070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 315
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce28f15d9433d1c0800000000000000
+      internalID: -4480179354013782330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_56
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce89e703a9f6900800000000000000
+      internalID: 679931601829293195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 304
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f099a9fee56290800000000000000
+      internalID: -7897643615465178719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_58
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 290
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1388420249192aaa0800000000000000
+      internalID: -6151194075654223823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_59
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 279
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ddbdf3631ba6810800000000000000
+      internalID: 1759413450999324019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_60
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 279
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307fac8d932152700800000000000000
+      internalID: 514837772063405827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 279
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7e96b9ce5518050800000000000000
+      internalID: 5801012269737961448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammer4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2894b5f0590404b80800000000000000
+      internalID: -8412653094976140926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerBroWalk1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 274
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d431dbedbd29ba0800000000000000
+      internalID: -6083558396922737323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerBroWalk2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 274
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02b4474b8ea7c2f0800000000000000
+      internalID: -952600882946199027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerBroAttack
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 274
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42df08a66fb6df10800000000000000
+      internalID: 2294231507819024971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 289
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eb18726b41ad940800000000000000
+      internalID: 5321588682271080047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_67
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 272
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e168f966f6316f0800000000000000
+      internalID: -715105429268062609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 255
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58273795d57de98e0800000000000000
+      internalID: -1684672414657318267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_69
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e55fd3a150c15f0800000000000000
+      internalID: -784746624802529642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_70
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fadf4c67fe7e4b0800000000000000
+      internalID: -5411093133872222324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_71
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eafd164a773e610800000000000000
+      internalID: 1649293436448124540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_72
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfc9838e8d6bcf80800000000000000
+      internalID: -8085248247153963051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_73
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 183
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1898bd046b579070800000000000000
+      internalID: 8113053739016296476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_74
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 183
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41593508eabd46850800000000000000
+      internalID: 6369457315532477716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_75
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 148
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b727bfe3721610800000000000000
+      internalID: 1590461091822418260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 148
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503dd92a8f9bec3d0800000000000000
+      internalID: -3184403408973081851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_77
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e449d23dcf4156570800000000000000
+      internalID: 8459190551192638542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_78
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 148
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43b06a836ab76690800000000000000
+      internalID: -7608908108733041841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_79
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 148
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce3c59d4086117a0800000000000000
+      internalID: -6408226424735646009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_80
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 108
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2958c18459797e0800000000000000
+      internalID: -1758772992516189483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_81
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f770444ae51ea700800000000000000
+      internalID: 553403900124755959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_82
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c314d03571a9128a0800000000000000
+      internalID: -6331610176137903812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9efa425a6d6c470800000000000000
+      internalID: 8414648958561806755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_84
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f68968935792c7c0800000000000000
+      internalID: -4052510329384892680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_85
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468a2d2d7218fab0800000000000000
+      internalID: -4974205459592739258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_86
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba11ec6fe95c570800000000000000
+      internalID: 8486363855705975757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_87
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 75
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41916751707af1450800000000000000
+      internalID: 6061747272330647828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioTiles_88
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2c2f52e152cb440800000000000000
+      internalID: 4952874501616616128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7caa0b9fcbb03844ba5072b5d5d68e64
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bonus: 4694639778055046845
+      Bonus2: 25991212060276605
+      Brick: -2211666523805722910
+      Brick2: 4661755074936886555
+      Empty: 3053394187943464918
+      Empty2: 156358613980284605
+      GoombaDie: -8484574264705471866
+      GoombaWalk1: 7502670587093929488
+      GoombaWalk2: 1717451529547189852
+      Ground: 6824967638264635019
+      Hammer1: -380870758369619876
+      Hammer2: -4480179354013782330
+      Hammer3: -7897643615465178719
+      Hammer4: -8412653094976140926
+      HammerBroAttack: 2294231507819024971
+      HammerBroWalk1: -6083558396922737323
+      HammerBroWalk2: -952600882946199027
+      MarioDie: -1313845387910687597
+      MarioJump: -2964080295293303992
+      MarioWalk1: -2046428785241159818
+      MarioWalk2: 2451433585021712644
+      MarioWalk3: -4999395258633109309
+      Marioidle: -3304287409774716857
+      Solid: -7382686574053633014
+      SuperMarioTiles_1: -2596122250585918260
+      SuperMarioTiles_10: 234000451447244701
+      SuperMarioTiles_12: 5144680252142726988
+      SuperMarioTiles_13: -5031571007114188970
+      SuperMarioTiles_14: 67974255664262991
+      SuperMarioTiles_15: 6407265689048717170
+      SuperMarioTiles_16: -315177504535424581
+      SuperMarioTiles_17: -7489874471270659322
+      SuperMarioTiles_2: 1722901226976628637
+      SuperMarioTiles_21: 3824217333774245719
+      SuperMarioTiles_27: -2653645618259152934
+      SuperMarioTiles_28: -7617476767240833865
+      SuperMarioTiles_29: -7715339382365613091
+      SuperMarioTiles_3: -578255957836932889
+      SuperMarioTiles_30: -909996223171177939
+      SuperMarioTiles_31: -3484438250994018197
+      SuperMarioTiles_32: 9036509599760242527
+      SuperMarioTiles_34: -8423389739559407898
+      SuperMarioTiles_35: -6595583442674672377
+      SuperMarioTiles_36: 4215815206070163956
+      SuperMarioTiles_37: -6608696632139879871
+      SuperMarioTiles_38: 8392131591477328989
+      SuperMarioTiles_39: 4230949000010330390
+      SuperMarioTiles_40: -8531814705096191329
+      SuperMarioTiles_41: -598005332136175061
+      SuperMarioTiles_42: 1855613572339250163
+      SuperMarioTiles_43: -521277665650052783
+      SuperMarioTiles_44: 2033392120849988980
+      SuperMarioTiles_45: 730500942876155923
+      SuperMarioTiles_46: -6350361916083378481
+      SuperMarioTiles_48: 3763927754402730958
+      SuperMarioTiles_49: -9112536311449611405
+      SuperMarioTiles_52: 8362597738852755636
+      SuperMarioTiles_53: -1502820082371538139
+      SuperMarioTiles_54: -3393165466077228070
+      SuperMarioTiles_56: 679931601829293195
+      SuperMarioTiles_58: -6151194075654223823
+      SuperMarioTiles_59: 1759413450999324019
+      SuperMarioTiles_60: 514837772063405827
+      SuperMarioTiles_61: 5801012269737961448
+      SuperMarioTiles_66: 5321588682271080047
+      SuperMarioTiles_67: -715105429268062609
+      SuperMarioTiles_68: -1684672414657318267
+      SuperMarioTiles_69: -784746624802529642
+      SuperMarioTiles_70: -5411093133872222324
+      SuperMarioTiles_71: 1649293436448124540
+      SuperMarioTiles_72: -8085248247153963051
+      SuperMarioTiles_73: 8113053739016296476
+      SuperMarioTiles_74: 6369457315532477716
+      SuperMarioTiles_75: 1590461091822418260
+      SuperMarioTiles_76: -3184403408973081851
+      SuperMarioTiles_77: 8459190551192638542
+      SuperMarioTiles_78: -7608908108733041841
+      SuperMarioTiles_79: -6408226424735646009
+      SuperMarioTiles_8: 3511280245185173835
+      SuperMarioTiles_80: -1758772992516189483
+      SuperMarioTiles_81: 553403900124755959
+      SuperMarioTiles_82: -6331610176137903812
+      SuperMarioTiles_83: 8414648958561806755
+      SuperMarioTiles_84: -4052510329384892680
+      SuperMarioTiles_85: -4974205459592739258
+      SuperMarioTiles_86: 8486363855705975757
+      SuperMarioTiles_87: 6061747272330647828
+      SuperMarioTiles_88: 4952874501616616128
+      SuperMarioTiles_9: -6546257434437428140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
